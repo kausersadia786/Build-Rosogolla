@@ -1,0 +1,11 @@
+# Build-Rosogolla
+
+In this fast-paced world where everybody is racing against time,keeping oneself abreast of information is immensely significant yet challenging. Undoubtedly,one hardly has time to go through the plethora of information that is available on internet. But at the same time one cannot be oblivious to the world and its events and incidents. Thus it is very significant to satisfy one's unquenchable thirst for knowledge so that he or she stays updated without compromising much of his/her   valuable time. However one cannot deny that in  a time when everything is at the tip of our fingers, navigating through multiple websites is a real wastage of time. Even if every news headline was to be in one place,  we rarely have enough time to go through and process all of it. This is a serious problem in our quest for knowledge and staying updated.
+
+
+However, in this technologically advanced era, we can find everything at our fingertips and staying updated with the ongoings has become so easy. My team would develop a web application which would collect news from a variety of sources and assemble those in one place for our convenience. While the benefits can be many, here are some of them  what comes to my mind :-
+1. User satisfaction: We don't go to 10 news sites to gauge the happenings you are interested in - just get all of them at one place - save effort, time and patience!
+2. Business gains - aggregators present a unique opportunity of reaching people whom they never get through earlier through their own organic or social or paid attempts. if the users convert to the original source - we get repeat customers
+3. A fantastic new revenue model - Think of the news aggregator itself as a business - be extremely efficient at the logic of collecting and segregating news elements and personalise them on what the users wants and be incredible at gaining loyalty - then start our own ad engine or platform to ace at contextual advertising.
+
+In this project we have developed a new way of viewing news, a much better and faster way. Don't trust us ? well you can figure it out yourself, in the traditional news app as the name suggests it uses the traditional techniques of fetching news the the news aggregator developed using Django, and Android Studio(still under development).
